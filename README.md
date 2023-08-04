@@ -27,4 +27,4 @@ At mlbb.fyi, we have a big dream: to create a welcoming and supportive community
 
 But, for us, it's not just about winning and providing information. We want to foster a sense of belonging among our members, where everyone feels welcome, regardless of their level of experience or skill. We believe that we're all in this together, and we're committed to supporting each other along the way.
 
-Visit us at https://mlbb.fyi
+## Visit us at https://mlbb.fyi!
